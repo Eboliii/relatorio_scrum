@@ -1,0 +1,15 @@
+O Scrum é uma metodologia ágil usada para organizar projetos, principalmente na área de tecnologia. Ele divide o trabalho em ciclos curtos chamados Sprints, permitindo entregas rápidas e melhoria contínua. Sua importância está na organização, adaptação a mudanças e aumento da produtividade da equipe.
+No Scrum existem papéis principais. O Product Owner (PO) define o que será desenvolvido, prioriza tarefas e valida as entregas. O Scrum Master garante que o processo funcione corretamente, organiza reuniões e remove impedimentos.
+O Líder Técnico ajuda a equipe em decisões técnicas e na resolução de problemas mais complexos. Já a equipe de tecnologia desenvolve as tarefas, participa das reuniões e colabora para melhorar o processo.
+O Scrum também possui eventos como Daily, Planning, Review e Retrospective, que ajudam na organização e melhoria contínua.
+
+Product Owner
+Define prioridades, decide o que será desenvolvido e valida entregas.
+Scrum Master
+Organiza o processo, remove impedimentos e ajuda a equipe.
+Líder Técnico
+Apoia nas decisões técnicas e ajuda a resolver problemas.
+Equipe de Tecnologia
+Desenvolve as tarefas, participa das reuniões e melhora o processo.
+Importância
+O Scrum melhora a organização, aumenta a produtividade e facilita mudanças.
